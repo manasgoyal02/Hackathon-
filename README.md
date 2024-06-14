@@ -1,2 +1,3 @@
 # Hackathon-
-Codes related to website created for the hackathon
+We created a website to help any government official track what is going on under his respective constituency.
+The given files contain all the codes and other files that have been used to create the website.
